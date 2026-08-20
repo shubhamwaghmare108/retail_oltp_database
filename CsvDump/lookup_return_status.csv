@@ -1,0 +1,6 @@
+return_status_id,status_name
+2,Approved
+3,Received
+4,Refunded
+5,Rejected
+1,Requested
